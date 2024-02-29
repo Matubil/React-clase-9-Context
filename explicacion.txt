@@ -1,0 +1,7 @@
+este proyecto esta hecho con context api
+
+recomendacion del profesore:
+-context api para cuestiones de sistema 
+
+-redux para cuestiones de negocio
+
